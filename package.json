@@ -1,0 +1,18 @@
+{
+  "name": "simple-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "changeState.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@waves/ride-js": "^0.17.4",
+    "@waves/waves-crypto": "^2.0.4",
+    "@waves/waves-transactions": "^3.3.11",
+    "axios": "^0.18.0",
+    "btoa": "^1.2.1"
+  }
+}
